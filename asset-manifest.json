@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.b16b0178.chunk.css",
-    "main.js": "/my-app/static/js/main.c4bf8031.chunk.js",
-    "main.js.map": "/my-app/static/js/main.c4bf8031.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.290ac724.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.290ac724.js.map",
-    "static/js/2.146db7c7.chunk.js": "/my-app/static/js/2.146db7c7.chunk.js",
-    "static/js/2.146db7c7.chunk.js.map": "/my-app/static/js/2.146db7c7.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.a5de96e50b50977eef413865c3dad51c.js": "/my-app/precache-manifest.a5de96e50b50977eef413865c3dad51c.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.b16b0178.chunk.css.map": "/my-app/static/css/main.b16b0178.chunk.css.map",
-    "static/js/2.146db7c7.chunk.js.LICENSE.txt": "/my-app/static/js/2.146db7c7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/coco_broderies/static/css/main.b16b0178.chunk.css",
+    "main.js": "/coco_broderies/static/js/main.b9c0dfbd.chunk.js",
+    "main.js.map": "/coco_broderies/static/js/main.b9c0dfbd.chunk.js.map",
+    "runtime-main.js": "/coco_broderies/static/js/runtime-main.e7ddcdf0.js",
+    "runtime-main.js.map": "/coco_broderies/static/js/runtime-main.e7ddcdf0.js.map",
+    "static/js/2.146db7c7.chunk.js": "/coco_broderies/static/js/2.146db7c7.chunk.js",
+    "static/js/2.146db7c7.chunk.js.map": "/coco_broderies/static/js/2.146db7c7.chunk.js.map",
+    "index.html": "/coco_broderies/index.html",
+    "precache-manifest.5c69330d38424618211c07686f1e6f22.js": "/coco_broderies/precache-manifest.5c69330d38424618211c07686f1e6f22.js",
+    "service-worker.js": "/coco_broderies/service-worker.js",
+    "static/css/main.b16b0178.chunk.css.map": "/coco_broderies/static/css/main.b16b0178.chunk.css.map",
+    "static/js/2.146db7c7.chunk.js.LICENSE.txt": "/coco_broderies/static/js/2.146db7c7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/coco_broderies/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.290ac724.js",
+    "static/js/runtime-main.e7ddcdf0.js",
     "static/js/2.146db7c7.chunk.js",
     "static/css/main.b16b0178.chunk.css",
-    "static/js/main.c4bf8031.chunk.js"
+    "static/js/main.b9c0dfbd.chunk.js"
   ]
 }
